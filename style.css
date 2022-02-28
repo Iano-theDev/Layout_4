@@ -3,26 +3,26 @@
 }
 
 header, footer {
-    height:200px;
+    height:100px;
     width:100%;
     background: #bfbfbf;
-    border: 3px solid #000000;
+    border: 1px solid #000000;
     clear: both;
 }
 
 .sections .left {
-    height: 800px;
-    width: 30%;
+    height: 700px;
+    width: 20%;
     background: #bfbfbf;
-    border: 3px solid #000000;
+    border: 1px solid #000000;
     float: left;
 }
 
 .sections .right {
-    height: 800px;
-    width:70%;
+    height: 700px;
+    width:80%;
     background: #bfbfbf;
-    border: 3px solid #000000;
+    border: 1px solid #000000;
     float: left;
 }
 
